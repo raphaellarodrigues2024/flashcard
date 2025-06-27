@@ -18,4 +18,10 @@ criaCartao(
     '42'
 )
 
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz "bom dia" em inglês?',
+    '"Good morning".'
+)
+
 
