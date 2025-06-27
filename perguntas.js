@@ -24,4 +24,10 @@ criaCartao(
     '"Good morning".'
 )
 
+criaCartao(
+    'história',
+    'Quem foi o primeiro presidente dos Estados Unidos?',
+    'George Washington.'
+)
+
 
